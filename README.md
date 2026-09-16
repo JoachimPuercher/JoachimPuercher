@@ -1,11 +1,10 @@
 # Hi, I'm Joachim 👋
 
-Full-stack developer from Austria. I build TypeScript, React / React Native mobile- and web apps, Python/django and TypeScript/hono backends, and I care about clean contracts between frontend and backend, typed APIs and CI that actually catches things.
+Full-stack developer from Austria. I build TypeScript, React / React Native mobile- and web apps, Python/django and TypeScript/hono backends, and I care about clean contracts between frontend and backend and typed APIs.
 
 ## 🚀 What I'm working on
 
 **[Pulsify](https://pulsify.at)** – a social event platform for going out with friends and discovering places and events, make Friends Plans and an easy connection through spots.
-Turborepo monorepo with an Expo mobile app, a business web dashboard, a public Next.js website and a Bun/Hono backend on Supabase Postgres.
 
 My contributions include:
 - Rebuilt the **business dashboard** (Vite, TanStack Router/Query, Tailwind v4, Radix, Feature-Sliced Design)
@@ -13,10 +12,11 @@ My contributions include:
 - **Stripe subscriptions**: checkout, plan changes, billing periods, customer portal and webhook reconciliation
 - **Social media crossposting** to Facebook and Instagram with a shared post composer
 - **Analytics** pipeline for event and listing impressions with time-series charts
+- **CreditSystem** for using pulsify AI in the dashboard
 - Mobile features in the Expo app: plans, cover photos, moments, crew pulse, notifications
 - Backend routes, Drizzle migrations and shared DTO contracts behind all of the above
 
-## 🛠 Tech stack
+## 🛠 My Tech stack
 
 **Frontend** · TypeScript, React, Next.js, Angular, Vite, TanStack Router/Query/Form, Tailwind CSS, Radix UI, Framer Motion, Recharts, i18n (i18next, Paraglide, next-intl)
 
