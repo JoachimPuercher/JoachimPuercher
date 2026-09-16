@@ -34,13 +34,15 @@ My contributions include:
 
 | Project | Stack | Description |
 |---|---|---|
-| [Videoflix](#) | Django REST, PostgreSQL, Redis/RQ, Docker | Video streaming backend with JWT auth, background transcoding and Docker Compose setup |
-| [KanMind](#) | Django REST, Angular | Kanban board API with boards, tasks and comments |
-| [Coderr](#) | Django REST | Freelancer marketplace API with offers, orders and reviews |
-| [Quizzly](#) | Django REST, Whisper, Google GenAI | Generates quizzes from YouTube videos via transcription and LLM |
-| [Join](#) | JavaScript, Firebase | Kanban task manager with drag and drop |
-| [El Pollo Loco](#) | JavaScript (OOP), Canvas | 2D jump-and-run game with JSDoc documentation |
-| [Portfolio](#) | Angular 19, ngx-translate | Personal portfolio site, multilingual |
+| [Videoflix](https://github.com/JoachimPuercher/videoflix_backend) | Django REST, PostgreSQL, Redis/RQ, Docker | Video streaming backend with JWT auth, background transcoding and Docker Compose setup 
+| [KanMind](https://github.com/JoachimPuercher/KanMind_backend) | Django REST, Angular | Kanban board API with boards, tasks and comments |
+| [Coderr](https://github.com/JoachimPuercher/coderr_backend) | Django REST | Freelancer marketplace API with offers, orders and reviews |
+| [Quizzly](https://github.com/JoachimPuercher/quizzly_backend) | Django REST, Whisper, Google GenAI | Generates quizzes from YouTube videos via transcription and LLM |
+| [Join](https://github.com/JoachimPuercher/join) | JavaScript, Firebase | Kanban task manager with drag and drop |
+| [El Pollo Loco](https://github.com/JoachimPuercher/el_pollo_loco) | JavaScript (OOP), Canvas | 2D jump-and-run game with JSDoc documentation |
+| [Portfolio](https://github.com/JoachimPuercher/portfolio_full) | React, next.js - claude Fable 5.1 migration test from my original(https://github.com/JoachimPuercher/portfolio) Angular 19, ngx-translate | Personal portfolio site, multilingual |
+
+Knowledge is more important than writing code with AI.
 
 ## 📫 Contact
 
