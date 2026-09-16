@@ -1,10 +1,10 @@
 # Hi, I'm Joachim 👋
 
-Full-stack developer from Austria. I build TypeScript, React / React Native mobile- and web apps, Python/django and TypeScript/hono backends, and I care about clean contracts between frontend and backend and typed APIs.
+Full-stack developer from Austria. I build TypeScript, React / React Native mobile- and web apps, Python/Django and TypeScript/Hono backends, and I care about clean contracts between frontend and backend and typed APIs.
 
 ## 🚀 What I'm working on
 
-**[Pulsify](https://pulsify.at)** – a social event platform for going out with friends and discovering places and events, make Friends Plans and an easy connection through spots.
+**[Pulsify](https://pulsify.at)** – a social event platform for going out with friends and discovering places and events, make Friends Plans and stay updated through spots.
 
 My contributions include:
 - Rebuilt the **business dashboard** (Vite, TanStack Router/Query, Tailwind v4, Radix, Feature-Sliced Design)
