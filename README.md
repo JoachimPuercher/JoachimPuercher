@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Joachim 👋
 
-<!--
-**JoachimPuercher/JoachimPuercher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer from Austria. I build TypeScript, React / React Native mobile- and web apps, Python/django and TypeScript/hono backends, and I care about clean contracts between frontend and backend, typed APIs and CI that actually catches things.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Pulsify](https://pulsify.at)** – a social event platform for going out with friends and discovering places and events, make Friends Plans and an easy connection through spots.
+Turborepo monorepo with an Expo mobile app, a business web dashboard, a public Next.js website and a Bun/Hono backend on Supabase Postgres.
+
+My contributions include:
+- Rebuilt the **business dashboard** (Vite, TanStack Router/Query, Tailwind v4, Radix, Feature-Sliced Design)
+- **AI Studio** with image generation, flyer and social-media formats, people screening and a credit system
+- **Stripe subscriptions**: checkout, plan changes, billing periods, customer portal and webhook reconciliation
+- **Social media crossposting** to Facebook and Instagram with a shared post composer
+- **Analytics** pipeline for event and listing impressions with time-series charts
+- Mobile features in the Expo app: plans, cover photos, moments, crew pulse, notifications
+- Backend routes, Drizzle migrations and shared DTO contracts behind all of the above
+
+## 🛠 Tech stack
+
+**Frontend** · TypeScript, React, Next.js, Angular, Vite, TanStack Router/Query/Form, Tailwind CSS, Radix UI, Framer Motion, Recharts, i18n (i18next, Paraglide, next-intl)
+
+**Mobile** · React Native, Expo, expo-router, NativeWind, Reanimated, push notifications
+
+**Backend** · Bun, Hono (zod-openapi, typed RPC), Node.js, Python, Django, Django REST Framework, Redis/RQ
+
+**Data** · PostgreSQL, Supabase (Auth, Storage, RLS), Drizzle ORM, SQL migrations, Firebase
+
+**Integrations** · Stripe, OpenAI, Anthropic SDK, Google GenAI, Meta Graph API, Resend, Sentry, PostHog
+
+**Tooling** · pnpm, Turborepo, Docker, GitHub Actions, Biome, Husky, Conventional Commits, Railway, Vercel, Jest, Vitest, Bun Test
+
+## 🎓 Training projects (Developer Akademie)
+
+| Project | Stack | Description |
+|---|---|---|
+| [Videoflix](#) | Django REST, PostgreSQL, Redis/RQ, Docker | Video streaming backend with JWT auth, background transcoding and Docker Compose setup |
+| [KanMind](#) | Django REST, Angular | Kanban board API with boards, tasks and comments |
+| [Coderr](#) | Django REST | Freelancer marketplace API with offers, orders and reviews |
+| [Quizzly](#) | Django REST, Whisper, Google GenAI | Generates quizzes from YouTube videos via transcription and LLM |
+| [Stackunderflow](#) | Django REST | Q&A forum API with filtering and permissions |
+| [Join](#) | JavaScript, Firebase | Kanban task manager with drag and drop |
+| [El Pollo Loco](#) | JavaScript (OOP), Canvas | 2D jump-and-run game with JSDoc documentation |
+| [Portfolio](#) | Angular 19, ngx-translate | Personal portfolio site, multilingual |
+
+## 📫 Contact
+
+- Email: joachim.puercher@gmail.com
+- Location: Austria
