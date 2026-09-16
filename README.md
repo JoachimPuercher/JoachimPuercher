@@ -8,7 +8,7 @@ Full-stack developer from Austria. I build TypeScript, React / React Native mobi
 
 My contributions include:
 - Rebuilt the **business dashboard** (Vite, TanStack Router/Query, Tailwind v4, Radix, Feature-Sliced Design)
-- **AI Studio** with image generation, flyer and social-media formats, people screening and a credit system
+- **AI Studio** with image generation, flyer and social-media formats, people screening
 - **Stripe subscriptions**: checkout, plan changes, billing periods, customer portal and webhook reconciliation
 - **Social media crossposting** to Facebook and Instagram with a shared post composer
 - **Analytics** pipeline for event and listing impressions with time-series charts
