@@ -38,7 +38,6 @@ My contributions include:
 | [KanMind](#) | Django REST, Angular | Kanban board API with boards, tasks and comments |
 | [Coderr](#) | Django REST | Freelancer marketplace API with offers, orders and reviews |
 | [Quizzly](#) | Django REST, Whisper, Google GenAI | Generates quizzes from YouTube videos via transcription and LLM |
-| [Stackunderflow](#) | Django REST | Q&A forum API with filtering and permissions |
 | [Join](#) | JavaScript, Firebase | Kanban task manager with drag and drop |
 | [El Pollo Loco](#) | JavaScript (OOP), Canvas | 2D jump-and-run game with JSDoc documentation |
 | [Portfolio](#) | Angular 19, ngx-translate | Personal portfolio site, multilingual |
